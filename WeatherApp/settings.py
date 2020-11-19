@@ -25,7 +25,7 @@ SECRET_KEY = '-9=*7_b@ek(_tp^)0kx3cpr_+d-f@4diw(^5&znqbr_cc!tv1@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','weatherappdjangoapp.herokuapp.com']
 
 
 # Application definition
