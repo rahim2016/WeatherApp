@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'WeatherApp.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends. postgresql_psycopg2',
+        'ENGINE': 'django.db.backends. postgresql',
         'NAME': 'dff3snlkva54ur',
         'USER': ' wysttdydymvglc',
         'PASSWORD': ' f65fca739c84072c9c8c8a0cb1c09ea246b3342a0c5e4b729b8bbcd1b8381f2a',
